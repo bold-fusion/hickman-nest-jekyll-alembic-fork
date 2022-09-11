@@ -35,3 +35,7 @@ We invite you to attend the meetings to get involved!
 - Square1 Art: Katheryn, Melissa Berry
 - Hospitality: TBD
 - Family Engagement Liason: TBD
+
+## Volunteers for (2022-2023)
+
+Hickman Elementary volunteer sign-up has begun! Please follow [these steps](https://docs.google.com/document/d/1ixVVikKZlBhRZu0K6xjLmMiAkVZGjLcRVg9XvdHl7oM/edit?usp=sharing) to apply for Volunteer clearance. The first day of volunteering will be on Monday, September 26. Please work directly with your child’s teacher on a specific schedule.
