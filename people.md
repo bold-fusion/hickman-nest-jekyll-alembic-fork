@@ -1,15 +1,15 @@
 ---
 title: People
 feature_text: |
-  Contributors to the Hickman N.E.S.T.
+  Contributors to the Hickman NEST
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: ""
 aside: true
 ---
 
 ## Board (2022-2023)
 
-The Hickman N.E.S.T. is comprised of and governed by a Board of Directors, all of whom have children currently attending Hickman. Board members are nominated and voted on by the Board each Spring, and work closely with the school principal to assess the current needs of our students.
+The Hickman NEST is comprised of and governed by a Board of Directors, all of whom have children currently attending Hickman. Board members are nominated and voted on by the Board each Spring, and work closely with the school principal to assess the current needs of our students.
 
 We invite you to attend the meetings to get involved!
 
