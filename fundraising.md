@@ -37,6 +37,10 @@ Double your pledge-drive donation by asking your employer if they have a charita
 
 Check our [Corporate Matching List](https://www.hickmannest.com/_files/ugd/4d719d_acb61f4626a74bd6bc7fc17091600e77.pdf) for major area and national corporations known to provide charitable matching to their employees.
 
+## Family Dine-Out
+
+The NEST partners with local restaurants, presenting an opportunity for raising money through everyday dollars you spend on dining out. Share this info with family & friends!
+
 ## Shopping Programs
 
 You can support Hickman through everyday purchases through the following programs:
