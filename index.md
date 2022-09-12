@@ -23,11 +23,11 @@ Hickman NEST is an independent organization of parents, teachers, and members of
 
 ## Super Pledge Drive
 
-If you dread selling wrapping paper, chocolate bars, etc., the SUPER PLEDGE is for *YOU*!! Turn in your donation now so we don't have to do these fundraisers. 
+If you dread selling wrapping paper, chocolate bars, etc., the SUPER PLEDGE is for *YOU!!* Make your donation now so we don't have to do these fundraisers. 
 
 Check the company match sheet under Fundraising to see if your company will match your pledge.
 
-(donations are accepted all year)
+(Donations are accepted all year.)
 
 ### Make a Donation
 
