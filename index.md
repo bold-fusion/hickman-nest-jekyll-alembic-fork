@@ -32,5 +32,3 @@ Check the company match sheet under Fundraising to see if your company will matc
 ### Donation Methods
 
 - [Square](https://hickman-nest.square.site)
-- PayPal: TODO
-- Zelle: TODO?
