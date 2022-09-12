@@ -1,4 +1,4 @@
-# [Hickman N.E.S.T. Web Site](https://bold-fusion.github.io/hickman-nest-jekyll-alembic-fork)
+# [Hickman NEST Web Site](https://bold-fusion.github.io/hickman-nest-jekyll-alembic-fork)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 ⚗ Based on the Jekyll Alembic theme.
