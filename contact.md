@@ -14,7 +14,7 @@ San Diego, CA 92126
 
 E-mail: hickmannest@gmail.com  
 Tel: 858-634-8500  
-School Website: [www.sandi.net/hickman](https://www.sandi.net/hickman)  
+School Website: [hickman.sandiegounified.org](https://hickman.sandiegounified.org/)  
 Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanNEST)  
 
 ### Contact form
