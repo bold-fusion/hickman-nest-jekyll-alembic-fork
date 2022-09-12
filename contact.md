@@ -7,8 +7,6 @@ excerpt: "Contact information for Hickman NEST"
 aside: true
 ---
 
-## Contact Us
-
 The Hickman Nest
 
 c/o Hickman Elementary School
