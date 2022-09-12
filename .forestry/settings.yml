@@ -7,26 +7,21 @@ sections:
 - type: document
   path: index.md
   label: Home Page
-  match: "**/*"
 - type: document
   path: people.md
   label: People
-  match: "**/*"
 - type: document
   path: Fundraising
   label: Fundraising
-  match: "**/*"
 - type: document
   path: contact.md
   label: Contact
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
