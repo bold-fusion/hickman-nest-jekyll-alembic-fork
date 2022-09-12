@@ -1,6 +1,7 @@
 ---
 title: Fundraising
 feature_text: |
+  ## Fundraising
   Donations to support Hickman Elementary
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
