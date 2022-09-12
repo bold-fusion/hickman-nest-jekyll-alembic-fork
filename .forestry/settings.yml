@@ -11,7 +11,7 @@ sections:
   path: people.md
   label: People
 - type: document
-  path: Fundraising
+  path: fundraising.md
   label: Fundraising
 - type: document
   path: contact.md
