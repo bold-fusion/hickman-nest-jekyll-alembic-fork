@@ -9,14 +9,21 @@ aside: true
 
 ## Contact Us
 
-The Hickman Nest at Hickman Elementary School
+The Hickman Nest
+
+c/o Hickman Elementary School
+
 10850 Montongo Street
+
 San Diego, CA  92126
 
 hickmannest@gmail.com
+
 Tel:858-634-8500
 
-School Website: www.sandi.net/hickman
+School Website: [www.sandi.net/hickman](https://www.sandi.net/hickman)
+
+Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanNEST)
 
 ### Contact form
 
