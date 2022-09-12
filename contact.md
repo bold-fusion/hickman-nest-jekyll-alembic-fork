@@ -23,4 +23,4 @@ Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanN
 
 ### Map
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+{% include map.html id="1SESYLfSgg_Lylxr5_ZwjHL5b4I8k-qs&ehbc=2E312F" title="Hickman Elementary Map" %}
