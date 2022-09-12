@@ -30,3 +30,9 @@ Our goal this year is to continue providing art, music, and educational software
 | $200-$299 per child   | Gold Donor: You will be entered into a drawing for your child to be Principal for the Day!                                                                                                                                  |
 | $100-$199 per child   | Silver Donor: You will be entered into a drawing for your child to record the weekly Sunday Night School Info that goes out to all Hickman families over the phone!                                                         |
 | $1-$99 per child      | Bronze Donor: You will be entered into a drawing for your child to share a photo or blurb about something they love (e.g., a favorite toy, a pet, an activity, a special person) on Class Dojo for the whole school to see! |
+
+## Corporate Matching
+
+Double your pledge-drive donation by asking your employer if they have a charitable-donation matching program!
+
+Check our [Corporate Matching List](https://www.hickmannest.com/_files/ugd/4d719d_acb61f4626a74bd6bc7fc17091600e77.pdf) for major area and national corporations known to provide charitable matching to their employees.
