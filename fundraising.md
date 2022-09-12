@@ -36,3 +36,9 @@ Our goal this year is to continue providing art, music, and educational software
 Double your pledge-drive donation by asking your employer if they have a charitable-donation matching program!
 
 Check our [Corporate Matching List](https://www.hickmannest.com/_files/ugd/4d719d_acb61f4626a74bd6bc7fc17091600e77.pdf) for major area and national corporations known to provide charitable matching to their employees.
+
+## Shopping Programs
+
+You can support Hickman through everyday purchases through the following programs:
+* [Box Tops for Education](https://www.boxtops4education.com/about/history): Cut Box Tops off of participating products and bring them to the school office.
+* [AmazonSmile](https://smile.amazon.com): AmazonSmile donates up to 0.5% of all qualifying purchases to Hickman Elementary!
