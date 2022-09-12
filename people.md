@@ -1,7 +1,7 @@
 ---
 title: People
 feature_text: |
-  ## People  
+  ## People
   Contributors to the Hickman NEST
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
