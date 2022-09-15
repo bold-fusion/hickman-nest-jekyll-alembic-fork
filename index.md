@@ -33,7 +33,3 @@ Check the company match sheet under Fundraising to see if your company will matc
 ### Make a Donation
 
 * [Square](https://hickman-nest.square.site)
-
-### Volunteer
-
-* Link: http://hickmanvolunteer.com
